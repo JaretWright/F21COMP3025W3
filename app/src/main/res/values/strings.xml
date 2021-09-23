@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Lesson Week 3</string>
+    <string name="second_activity">Change to Second Activity</string>
+    <string name="return_to_main_activity">return to main activity</string>
 </resources>
