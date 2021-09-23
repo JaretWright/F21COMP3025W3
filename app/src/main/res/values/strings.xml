@@ -2,4 +2,8 @@
     <string name="app_name">Lesson Week 3</string>
     <string name="second_activity">Change to Second Activity</string>
     <string name="return_to_main_activity">return to main activity</string>
+    <string name="meal_total_before_tip">Meal Total Before Tip</string>
+    <string name="select_tip_percentage">Select Tip Percentage</string>
+    <string name="tip_amount">Tip Amount</string>
+    <string name="total_amount">Total Amount</string>
 </resources>
